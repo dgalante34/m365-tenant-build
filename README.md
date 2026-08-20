@@ -38,4 +38,4 @@ Controls that moved it most:
 | `scripts/reports/` | License waste, MFA gaps, stale accounts |
 | `policies/` | Exported Conditional Access policies and Intune profiles |
 | `runbooks/` | Operational procedures |
-| `evidence/` | Screenshots and Secure Score exports, by week |
+| `evidence/` | Screenshots and Secure Score exports, by project phase |
