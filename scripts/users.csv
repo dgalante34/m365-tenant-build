@@ -1,0 +1,26 @@
+FirstName,LastName,DisplayName,UserPrincipalName,JobTitle,Department,Office,ManagerUPN,UsageLocation
+Alan,Whitfield,Alan Whitfield,alan.whitfield@dgalante.xyz,Chief Executive Officer,Executive,Indianapolis,,US
+Priya,Raghunathan,Priya Raghunathan,priya.raghunathan@dgalante.xyz,VP of Sales,Sales,Indianapolis,alan.whitfield@dgalante.xyz,US
+Marcus,Delgado,Marcus Delgado,marcus.delgado@dgalante.xyz,Sales Manager,Sales,Chicago,priya.raghunathan@dgalante.xyz,US
+Hannah,Okonkwo,Hannah Okonkwo,hannah.okonkwo@dgalante.xyz,Account Executive,Sales,Chicago,marcus.delgado@dgalante.xyz,US
+Tyler,Brennan,Tyler Brennan,tyler.brennan@dgalante.xyz,Account Executive,Sales,Remote,marcus.delgado@dgalante.xyz,US
+Sofia,Marchetti,Sofia Marchetti,sofia.marchetti@dgalante.xyz,Sales Development Representative,Sales,Indianapolis,marcus.delgado@dgalante.xyz,US
+Daniel,Kwon,Daniel Kwon,daniel.kwon@dgalante.xyz,VP of Engineering,Engineering,Indianapolis,alan.whitfield@dgalante.xyz,US
+Renee,Castellanos,Renee Castellanos,renee.castellanos@dgalante.xyz,Engineering Manager Platform,Engineering,Indianapolis,daniel.kwon@dgalante.xyz,US
+Omar,Haddad,Omar Haddad,omar.haddad@dgalante.xyz,Engineering Manager Applications,Engineering,Remote,daniel.kwon@dgalante.xyz,US
+Grace,Lindqvist,Grace Lindqvist,grace.lindqvist@dgalante.xyz,Senior Software Engineer,Engineering,Indianapolis,renee.castellanos@dgalante.xyz,US
+Isaac,Boateng,Isaac Boateng,isaac.boateng@dgalante.xyz,Software Engineer,Engineering,Remote,renee.castellanos@dgalante.xyz,US
+Wei,Zhang,Wei Zhang,wei.zhang@dgalante.xyz,Software Engineer,Engineering,Chicago,omar.haddad@dgalante.xyz,US
+Nadia,Petrov,Nadia Petrov,nadia.petrov@dgalante.xyz,QA Engineer,Engineering,Indianapolis,omar.haddad@dgalante.xyz,US
+Charles,Ferreira,Charles Ferreira,charles.ferreira@dgalante.xyz,Chief Financial Officer,Finance,Indianapolis,alan.whitfield@dgalante.xyz,US
+Miriam,Adelstein,Miriam Adelstein,miriam.adelstein@dgalante.xyz,Controller,Finance,Indianapolis,charles.ferreira@dgalante.xyz,US
+Jonah,Whitcombe,Jonah Whitcombe,jonah.whitcombe@dgalante.xyz,Staff Accountant,Finance,Chicago,miriam.adelstein@dgalante.xyz,US
+Leila,Nasser,Leila Nasser,leila.nasser@dgalante.xyz,Accounts Payable Specialist,Finance,Indianapolis,miriam.adelstein@dgalante.xyz,US
+Denise,Oyelaran,Denise Oyelaran,denise.oyelaran@dgalante.xyz,Director of People Operations,HR,Indianapolis,alan.whitfield@dgalante.xyz,US
+Aaron,Lindgren,Aaron Lindgren,aaron.lindgren@dgalante.xyz,HR Generalist,HR,Chicago,denise.oyelaran@dgalante.xyz,US
+Bianca,Trujillo,Bianca Trujillo,bianca.trujillo@dgalante.xyz,Recruiting Coordinator,HR,Remote,denise.oyelaran@dgalante.xyz,US
+Victor,Ramaswamy,Victor Ramaswamy,victor.ramaswamy@dgalante.xyz,Director of Operations,Operations,Indianapolis,alan.whitfield@dgalante.xyz,US
+Kelsey,Nakamura,Kelsey Nakamura,kelsey.nakamura@dgalante.xyz,Operations Manager,Operations,Chicago,victor.ramaswamy@dgalante.xyz,US
+Theo,Brandhorst,Theo Brandhorst,theo.brandhorst@dgalante.xyz,IT Support Specialist,Operations,Indianapolis,kelsey.nakamura@dgalante.xyz,US
+Farrah,Deshmukh,Farrah Deshmukh,farrah.deshmukh@dgalante.xyz,Facilities Coordinator,Operations,Chicago,kelsey.nakamura@dgalante.xyz,US
+Gideon,Alvarez,Gideon Alvarez,gideon.alvarez@dgalante.xyz,Logistics Analyst,Operations,Remote,kelsey.nakamura@dgalante.xyz,US

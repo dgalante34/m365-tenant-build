@@ -1,0 +1,35 @@
+# Windows answer files - contain local account passwords in plain text
+autounattend.xml
+unattend.xml
+unattend*.iso
+
+# Raw portal and Graph exports - sanitize before committing
+*.raw.json
+*-raw.csv
+exports/
+
+# Credentials, certificates, tokens
+.env
+secrets/
+credentials.json
+*.pfx
+*.cer
+*.key
+*.token
+
+# PowerShell transcripts and logs
+*.log
+transcripts/
+PowerShell_transcript.*
+
+# Real user data - the committed CSV must be fabricated only
+users-real*.csv
+
+# OS and editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
