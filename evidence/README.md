@@ -1,6 +1,6 @@
 # Evidence
 
-Screenshots and exports captured while each task was working, organised by week.
+Screenshots and exports captured while each task was working, organised by project phase. Phase 1 was machine and repo setup and produces no evidence, so the folders start at Phase 2.
 The tenant does not survive the trial; this folder does.
 
 ## Redaction
